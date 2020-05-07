@@ -20,7 +20,7 @@ Inexistence Existe Ca Réellement ?
 
 // Trois points Initiaux
 // -> n, -n et neutre => Trouver opération
-// -> n et x et y et opération => seulement 1 inconnue et on résoud TOUJOURS le problème avec au moins 1 solution !
+// => n et x et y et opération => seulement 1 inconnue et on résoud TOUJOURS le problème avec au moins 1 solution !
 // 1 point Résultant
 // -> Toute les opérations possibles => Tous les résultats possibles !
 // Donne Le Résultat final !
